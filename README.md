@@ -20,9 +20,8 @@
 
 ## ویدئو
 
-# VIDEO :p
-https://raw.githubusercontent.com/qavams/AI_chatbot/master/Test.mp4
 
-<video width="320" height="240" controls>
-  <source src="Test.mp4" type="video/mp4" width=180>
-</video>
+
+
+https://user-images.githubusercontent.com/60060223/161401380-ae159523-e97f-4638-a5b7-fd4f65fb8c68.mp4
+
